@@ -14,6 +14,7 @@ create separate inventory system for coins and ammo - KIRETAN *finished
 weapon switch and equip system - KIRETAN 
 crafting system - TITUS (btw i cant add until inventory is done but i will work on it in a diff repl)
 """
+#hi
 
 import threading, random, time, sys, map, sty
 
